@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0204/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說無量門微密持經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n1011.xml
+    old_id: T19n1011
+hash: sha256:227f46914e8b7e85f846c105912e6acfcc0eb0ee228f07f40c5d2e3a70c1e4c2

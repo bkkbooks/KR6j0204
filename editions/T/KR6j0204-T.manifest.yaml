@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6j0204/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0204/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說無量門微密持經
+  identifiers:
+    krp: KR6j0204
+    cbeta: T19n1011
+    cbeta_old_id: T19n1011
+    authorityid: CA0003406
+    json_key: T1011
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n1011.xml
+    old_id: T19n1011
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0204_000-T.yaml, hash: 'sha256:227f46914e8b7e85f846c105912e6acfcc0eb0ee228f07f40c5d2e3a70c1e4c2'}
+  - {seq: 1, filename: KR6j0204_001-T.yaml, hash: 'sha256:89e0325bc178914d6c49ea107106406ab582f8a4e68d367cc137191574e34695'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0204_000-T.markers.yaml, hash: 'sha256:223d700754cbc000d9b68b2bf838776616cb9ab4c44cd97a13aee66405c10f80'}
+  - {seq: 1, role: markers, filename: assets/KR6j0204_001-T.markers.yaml, hash: 'sha256:f384b4f55bb45fe30cb3e197425573a4c13614dcb08c9dd525fda6ef98081891'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0204_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 2384
+  label: 佛說無量門微密持經一名成道降魔得一切智
+  type: juan
+  level: 1
+hash: sha256:97c0fb4abaf3ae145d3dfb956ee99cd7cbbfd681c8e793974eefe6acc95235f4
