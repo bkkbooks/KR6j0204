@@ -28,9 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0204_000.yaml, hash: 'sha256:227f46914e8b7e85f846c105912e6acfcc0eb0ee228f07f40c5d2e3a70c1e4c2'}
-  - {seq: 1, filename: KR6j0204_001.yaml, hash: 'sha256:de4ebfdb71a6387b413272de767c1735799ac0dfdbec2e6768eb6224207965f7'}
+  - {seq: 1, filename: KR6j0204_001.yaml, hash: 'sha256:89e0325bc178914d6c49ea107106406ab582f8a4e68d367cc137191574e34695'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0204_001.markers.yaml, hash: 'sha256:cc71891f24f4fb76c222e8fed00732133f3c987768e1e5235bf04c6b5525e3d0'}
+  - {seq: 0, role: markers, filename: assets/KR6j0204_000.markers.yaml, hash: 'sha256:7f1e99e46fc23844df580d27ebe317174ee242fc23387c3b8169ebb1ab446e77'}
+  - {seq: 1, role: markers, filename: assets/KR6j0204_001.markers.yaml, hash: 'sha256:ddc635cea97a49681da2fffed5ae9deabe4b71ef6b0e282b8e797fe716338b3b'}
 table_of_contents:
 - ref:
     seq: 1
@@ -42,7 +43,4 @@ table_of_contents:
   label: 佛說無量門微密持經一名成道降魔得一切智
   type: juan
   level: 1
-hash: sha256:8a0826c53e8b5bb1b63818c6ef8acbd58d14e62a6bf31375578fbb0d0995de04
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:45f063f5177f802d0a6371634ff809977b7e3085eaaf6021faa5265cfa8f773c
